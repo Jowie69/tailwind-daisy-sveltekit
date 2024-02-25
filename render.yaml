@@ -1,0 +1,5 @@
+env:
+  NODE_VERSION: 14
+
+buildCommand: npm install && npm run build
+startCommand: npm run start

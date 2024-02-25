@@ -5,7 +5,7 @@ const config = {
   kit: {
     adapter: adapter(),
   },
-  preprocess: preprocess(),
+  preprocess: preprocess, // Removed parentheses here
 };
 
 export default config;
