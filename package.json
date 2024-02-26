@@ -45,6 +45,7 @@
     }
   },
   "dependencies": {
+    "@sveltejs/adapter-vercel": "^5.1.0",
     "daisyui": "^4.7.2"
   }
 }
